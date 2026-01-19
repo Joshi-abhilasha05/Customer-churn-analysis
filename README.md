@@ -1,25 +1,25 @@
-Customer Churn Analysis – Power BI
+## Customer Churn Analysis – Power BI
 
 This project uses Power BI Desktop and Excel to analyze customer behavior, identify churn risks, and help businesses improve customer retention through data-driven insights.
 
-Key Features:
+### Key Features:
 
-Predictive Churn Analysis: Identifies customers likely to churn for proactive retention.
+* **Predictive Churn Analysis:** Identifies customers likely to churn for proactive retention.
 
-Customer Segmentation: Groups customers based on behavior and churn risk.
+* **Customer Segmentation:** Groups customers based on behavior and churn risk.
 
-Interactive Dashboards: Clear visualizations for quick decision-making.
+* **Interactive Dashboards:** Clear visualizations for quick decision-making.
 
-Tools Used:
+### Tools Used:
 
-Power BI Desktop
+* Power BI Desktop
 
-Excel
+* Excel
 
-Key Benefits:
+### Key Benefits:
 
-Reduce customer loss by identifying at-risk customers early.
+* Reduce customer loss by identifying at-risk customers early.
 
-Improve customer satisfaction through better understanding of customer needs.
+* Improve customer satisfaction through better understanding of customer needs.
 
-Support data-driven business decisions.
+* Support data-driven business decisions.
